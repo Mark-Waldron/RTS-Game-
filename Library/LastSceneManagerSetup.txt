@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Game_Scene_Stragy.unity
+  isLoaded: 1
+  isActive: 1
